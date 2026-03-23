@@ -1,0 +1,2 @@
+new content in a new file called 3.txt
+edited using nano command  
